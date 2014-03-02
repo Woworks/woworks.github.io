@@ -1,0 +1,11 @@
+.tooltip{
+    position:absolute;
+    z-index:99;
+}
+.placeholder-error::-webkit-input-placeholder {
+    color: #d2322d;
+    font-weight: 600;
+}
+.downspace {
+    padding-bottom: 8px;
+}
